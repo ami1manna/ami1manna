@@ -7,6 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/amit_manna1" ><img src ="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" height="30" width ="40"></a>
+  <a href="https://www.hackerrank.com/amitmannasm" >
+    <img src ="https://icons-for-free.com/iconfiles/png/128/hackerrank-1324440171742474303.png" height="40" width ="40"></a>
 <a href="https://instagram.com/amit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCkZWbvQF0q3GyMRMHMkF-dw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amin" height="30" width="40" /></a>
 </p>

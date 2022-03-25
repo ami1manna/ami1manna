@@ -36,7 +36,8 @@ LEARNING  :-
 🔥 UNITY ..  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" alt="mysql" title="" width="135" height="55" title="unity"/> 
 
 🔥  c# ,javascript ,java  
-🔥  Probability ..... 
+🔥  Purmutation and combination and much more :)
+
 
 <hr><br>
 

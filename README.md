@@ -65,6 +65,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ami1manna&" alt="ami1manna" /></p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ami1manna&label=Profile%20views&color=0e75b6&style=flat" alt="ami1manna" /> </p>
+
 <h2 align="center">🤝 Support</h2>
 
 <p align="center">🎀 Contributions  🔥 issues, and 🥮 feature requests are most welcome!</p>

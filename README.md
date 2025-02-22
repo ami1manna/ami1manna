@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Amit manna<br>I'm a student of Dwarkadas J. Sanghvi College of Engineering<br><br>🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Full Stack Development<br><br>👨‍💻 All of my projects are available at https://github.com/ami1manna<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me amitmannasm@gmail.com
+Hi 👋! My name is Amit manna<br>I'm a student of Dwarkadas J. Sanghvi College of Engineering<br><br>🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning DevOps<br><br>👯 I’m looking to collaborate on Full Stack Development<br><br>👨‍💻 All of my projects are available at [https://github.com/ami1manna](https://github.com/ami1manna?tab=repositories)<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me amitmannasm@gmail.com
 
 
 ## 🌐 Socials:
